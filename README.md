@@ -1,7 +1,7 @@
 ### Olá Seja Bem-Vindo Ao Meu Perfil 👋
 
 - 🔭 Sou Desenvolvedor Front-End Iniciante
-- 🌱 Estudando JavaScript, HTML5, CSS
+- 🌱 Estudando JavaScript, Python, HTML5, CSS
 - 📋 Estou Atualmente No 9 Ano
 
 <div align="center">
